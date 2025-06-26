@@ -1,0 +1,25 @@
+/* .login-button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  margin-top: 20%;
+  height: 2%;
+  border: 2px solid gray;
+} */
+
+.main-login-button{
+height:   6%;
+width: 8%;
+
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* or any height */
+    /* border: 2px solid gray; */
+    background-color: aliceblue;
+
+  }
+  
